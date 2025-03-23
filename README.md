@@ -1,5 +1,3 @@
-# Journal App - README
-
 ## Introduction
 
 The **Journal App** is a lightweight, command-line tool for easy journaling. Write, save, and access entries without distractions.
