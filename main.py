@@ -18,7 +18,7 @@ while True:
     if viewerEntry == "Yes" or viewerEntry == "yes":
         fileEntry = input("File: ")
         fFunction = file(fileEntry)
-        print(fFunction.read())
+        print(f"Text: {fFunction.read()}")
         fFunction.close()
     elif viewerEntry == "No" or viewerEntry == "no":
         while True:
